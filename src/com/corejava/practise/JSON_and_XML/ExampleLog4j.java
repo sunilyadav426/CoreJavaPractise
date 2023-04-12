@@ -17,5 +17,6 @@ public class ExampleLog4j {
 		log.info("Hello this is an info message"+date);
 		
 		System.out.println("hi--> " + log.getName());
+		System.out.println("THis is new name ");
 	}
 }
